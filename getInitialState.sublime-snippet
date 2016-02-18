@@ -4,7 +4,7 @@ getInitialState: function() {
   return {
     ${1:key}: "${2:value}"
   }
-}
+},
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
   <tabTrigger>getInitialState</tabTrigger>
